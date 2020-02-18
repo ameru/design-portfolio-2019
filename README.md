@@ -1,4 +1,4 @@
-# design-portfolio
+# personal-website
 refactoring and rebuilding current website to aesthetic design goodness!
 
 
